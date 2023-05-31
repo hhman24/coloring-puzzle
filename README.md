@@ -17,5 +17,8 @@ CNF
 - Implement brute-force and backtracking
 - Connect the logic and how the UI works to emit the application
 
+## UI
+![](./image/p.png)
+
 ## Link
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ly3fOBrl_Es/0.jpg)](https://www.youtube.com/watch?v=Ly3fOBrl_Es)
