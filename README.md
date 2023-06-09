@@ -1,6 +1,10 @@
 # COLORING PUZZLE
-Build a coloring puzzle solver by using the first order logic to 
-CNF
+Build a coloring puzzle solver by using the first order logic to CNF
+
+## 👨‍👦‍👦 Member
+- Hoang Huu Minh An - 20127102 
+- Nguyen Vo Minh Tri - 20127364 
+- Pham Minh Xuan - 20127395
 
 ## Problem
 
